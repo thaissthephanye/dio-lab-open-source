@@ -1,0 +1,38 @@
+
+Olá! Aqui está um README sobre mim em JavaScript:
+
+## Informações Básicas
+
+- **Nome:** Thais
+- **Idade:** 21
+- **Localização:** João Pessoa - PB
+- **Curso:** Sistemas para Internet no IFPB
+
+## Habilidades em JavaScript
+
+Possuo as seguintes habilidades em JavaScript:
+
+- Lógica de programação básica
+- Manipulação do DOM (Document Object Model)
+- Criação de funções e métodos
+- Uso de estruturas de controle (if, else, loops, etc.)
+- Familiaridade com arrays e objetos
+- Conhecimento básico de assincronismo (callbacks, promises, async/await)
+- Capacidade de resolver problemas simples de JavaScript
+
+## Projetos Recentes
+
+Alguns dos meus projetos recentes em JavaScript incluem:
+
+1. **Calculadora Simples**: Uma aplicação web que permite aos usuários realizar operações matemáticas básicas.
+2. **Jogo da Velha**: Um jogo interativo de Jogo da Velha, com interface gráfica e lógica de jogo implementada em JavaScript.
+3. **To-Do List**: Uma aplicação de lista de tarefas que permite aos usuários adicionar, marcar como concluídas e excluir itens.
+
+## Áreas de Melhoria
+
+Para continuar a evoluir minhas habilidades em JavaScript, algumas áreas que você pode se concentrar são:
+
+- **Aprofundar o conhecimento em programação assíncrona**: Entender melhor o uso de promises, async/await e gerenciamento de fluxo assíncrono.
+- **Praticar projetos mais complexos**: Desenvolver aplicações com funcionalidades mais avançadas, como interação com APIs, autenticação de usuários, entre outras.
+- **Aprender frameworks e bibliotecas populares**: Estudar frameworks como React, Angular ou Vue.js para expandir suas capacidades de desenvolvimento web.
+- **Melhorar a estrutura e organização do código**: Aplicar boas práticas de arquitetura de software e princípios de design de código limpo.
